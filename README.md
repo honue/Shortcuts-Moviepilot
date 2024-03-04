@@ -4,9 +4,9 @@
 
 # 快捷指令安装链接
 
-[👉点击安装](https://www.icloud.com/shortcuts/31a2cc86d1d041c4870226d606a04c36)
+[👉点击安装](https://www.icloud.com/shortcuts/60578a256c1148c1976fe229a5f8605b)
 ```angular2html
-https://www.icloud.com/shortcuts/31a2cc86d1d041c4870226d606a04c36
+https://www.icloud.com/shortcuts/60578a256c1148c1976fe229a5f8605b
 ```
 
 <div align="center">
